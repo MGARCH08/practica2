@@ -3,5 +3,5 @@ Martes
 Miercoles
 Jueves
 Viernes
-Sábado
+Sabado
 Domingo
